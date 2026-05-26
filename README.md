@@ -1,4 +1,4 @@
-# SCT_ML_1
+House price prediction model
 Regression model to predict house prices based on square footage, bedrooms, and bathrooms | Internship @ SkillCraft Technologies
 
 # 🏠 House Price Prediction Using Linear Regression
